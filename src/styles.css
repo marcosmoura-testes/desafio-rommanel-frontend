@@ -1,0 +1,6 @@
+.toast-container {
+    z-index: 11000 !important; /* Garante que o toast fique acima do modal */
+    position: fixed;
+  }
+  
+  
